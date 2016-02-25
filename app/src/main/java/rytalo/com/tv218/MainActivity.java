@@ -109,7 +109,7 @@ public class MainActivity extends ActionBarActivity {
 
         @Override
         public void setresult_onfailed(String result) {
-        
+
         }
     }
 }
