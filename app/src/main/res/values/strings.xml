@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TV218</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="planets_array">
+        <item>الاخبار</item>
+        <item>الرياضة</item>
+        <item>الرئيسية</item>
+        <item>السوق</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="API_KEY">65D3ED2435764BCB1E1A269A74BD5</string>
+    <string name="PROGRAMS_KEY">f1905b5d102ce9e9cdd8d6d4b29d0da1</string>
+    <string name="URL_TEXT">http://218tv.net/apis/</string>
+    <string name="URL_IMAGE">http://218tv.net/sites/default/files/styles/x585/public/field/image/</string>
+    <string name="URL_NEWS_CATEGORIES">http://218tv.net/apis/taxonomy_term?api-key=</string>
+    <string name="URL_PROGRAMS">http://admin.mangomolo.com/analytics/index.php/plus/category?id=45&amp;o=channel&amp;user_id=97&amp;key=</string>
+    <string name="URL_PROGRAM_IMAGE">http://admin.mangomolo.com/analytics/</string>
+    <string name="URL_VIDEO_URL">http://lb218.mangomolo.com/</string>
+    <string name="URL_FEATURED_VIDEOS">http://admin.mangomolo.com/analytics/index.php/nand/featured?user_id=97&amp;key=</string>
+    <string name="URL_LIVE_STREAM">http://lb218.cdn.mangomolo.com/218/smil:218.smil/playlist.m3u8</string>
+    <string name="URL_NEWS_TOP_12">http://218tv.net/apis/views/nodequeue_4?api-key=</string>
+    <string name="URL_NEWS_INNER_CAT">http://218tv.net/apis/views/taxonomy_term?api-key=</string>
+    <string name="URL_NEWS_OPENION">http://218tv.net/apis/views/nodequeue_5?api-key=</string>
+    <string name="URL_NEWS_MOST_READ">http://218tv.net/apis/views/mostread_api?api-key=</string>
+    <string name="URL_PROGRAM_VIDEOS">http://admin.mangomolo.com/analytics/index.php/nand/GetVideosWithProgramInfo?user_id=97&amp;key=</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+
+</resources>
