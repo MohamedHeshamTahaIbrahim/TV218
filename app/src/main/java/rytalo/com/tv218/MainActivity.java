@@ -13,9 +13,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.os.Build;
 import android.widget.ListView;
-import android.widget.Toast;
-
-import com.android.volley.error.VolleyError;
 
 import org.json.JSONArray;
 
@@ -112,8 +109,7 @@ public class MainActivity extends ActionBarActivity {
 
         @Override
         public void setresult_onfailed(String result) {
-        //
-           
+        
         }
     }
 }
